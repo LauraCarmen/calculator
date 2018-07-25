@@ -26,3 +26,4 @@ for ( i = 0; i < numbers.length; i++ ) {
     }
 };
 
+console.log("am terminat");
